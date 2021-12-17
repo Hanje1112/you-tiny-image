@@ -1,15 +1,15 @@
 {
-  "name": "you-tiny-image-darwin-arm64",
+  "name": "you-tiny-image-win32-x64-msvc",
   "version": "1.0.0",
   "os": [
-    "darwin"
+    "win32"
   ],
   "cpu": [
-    "arm64"
+    "x64"
   ],
-  "main": "you-tiny-image.darwin-arm64.node",
+  "main": "you-tiny-image.win32-x64-msvc.node",
   "files": [
-    "you-tiny-image.darwin-arm64.node"
+    "you-tiny-image.win32-x64-msvc.node"
   ],
   "description": "Template project for writing node package with napi-rs",
   "keywords": [

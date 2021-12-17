@@ -1,15 +1,15 @@
 {
-  "name": "you-tiny-image-darwin-arm64",
+  "name": "you-tiny-image-freebsd-x64",
   "version": "1.0.0",
   "os": [
-    "darwin"
+    "freebsd"
   ],
   "cpu": [
-    "arm64"
+    "x64"
   ],
-  "main": "you-tiny-image.darwin-arm64.node",
+  "main": "you-tiny-image.freebsd-x64.node",
   "files": [
-    "you-tiny-image.darwin-arm64.node"
+    "you-tiny-image.freebsd-x64.node"
   ],
   "description": "Template project for writing node package with napi-rs",
   "keywords": [

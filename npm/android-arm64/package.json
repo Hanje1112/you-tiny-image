@@ -1,15 +1,15 @@
 {
-  "name": "you-tiny-image-darwin-arm64",
+  "name": "you-tiny-image-android-arm64",
   "version": "1.0.0",
   "os": [
-    "darwin"
+    "android"
   ],
   "cpu": [
     "arm64"
   ],
-  "main": "you-tiny-image.darwin-arm64.node",
+  "main": "you-tiny-image.android-arm64.node",
   "files": [
-    "you-tiny-image.darwin-arm64.node"
+    "you-tiny-image.android-arm64.node"
   ],
   "description": "Template project for writing node package with napi-rs",
   "keywords": [
